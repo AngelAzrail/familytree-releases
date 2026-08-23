@@ -121,8 +121,3 @@
 - Всё хранится локально (SQLite) на устройстве.
 - Интернет используется только для проверки обновлений — по вашей команде.
 - Передача дерева между устройствами идёт напрямую по локальной сети.
-
----
-
-This repository is **downloads only**: here live only release artifacts (APK/zip).
-Source code stays private.
